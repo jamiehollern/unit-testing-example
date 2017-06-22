@@ -1,4 +1,4 @@
-#Unit testing example
+# Unit testing example
 
 This contains a small Silex app but doesn't actually use it; it's really a very basic (incomplete) dependency injection example.
 
