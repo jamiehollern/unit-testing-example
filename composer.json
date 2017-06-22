@@ -1,0 +1,16 @@
+{
+  "require": {
+    "silex/silex": "~2.0",
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.2",
+    "mockery/mockery": "^0.9.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "TestingDemo\\": "src/TestingDemo",
+      "TestingDemo\\Tests\\": "tests/src/TestingDemo"
+    }
+  }
+}
