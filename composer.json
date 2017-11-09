@@ -1,6 +1,5 @@
 {
   "require": {
-    "silex/silex": "~2.0",
     "guzzlehttp/guzzle": "^6.2"
   },
   "require-dev": {
